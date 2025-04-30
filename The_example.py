@@ -68,3 +68,5 @@ def upload_file():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# Author name: Muzaffar Maxkamov (it is me)
